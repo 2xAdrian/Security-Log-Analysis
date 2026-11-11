@@ -52,9 +52,6 @@ The rule uses one fixed date range, not a rolling window. It groups by username,
 
 ![DuckDB displays the stored view definition](screenshots/04_rule_definition.png)
 
-## Reproduce the exercise
-
-Open [DuckDB Web Shell](https://shell.duckdb.org/) and run `lab.sql` in a fresh session. Do not run its setup statements again in the existing lab database. The expected final detection result is alex with 3 failures, based on the original screenshots. This is training data only.
 
 ## Tool reference
 
