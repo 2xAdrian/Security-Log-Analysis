@@ -1,6 +1,6 @@
 # Security Log Analysis and Detection with SQL
 
-I used DuckDB Web Shell to review synthetic login events and build a basic detection for repeated failed logins. This was a guided beginner lab using six manually entered training events. DuckDB was the database tool. I did not deploy a full SIEM or collect activity from a real company.
+I used DuckDB Web Shell to review synthetic login events and build a basic detection for repeated failed logins. This was a guided beginner lab using six manually entered training events. DuckDB was the database tool. I did not collect activity from a real company.
 
 ## What I did
 
